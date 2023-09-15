@@ -8,13 +8,28 @@
     <title>Etch A Sketch</title>
   </head>
   <body>
-
     <div class="headline">
-        <H1>Etch A Sketch</H1>
+      <h1>Etch A Sketch</h1>
     </div>
     <div class="container">
       <div class="leftSide">
-
+        <div class="controlTab">
+          <p>Controls</p>
+          <div class="slider">
+            <label for="slider">Slider</label>
+            <br />
+            <input
+              type="range"
+              id="slider"
+              name="slider"
+              min="16"
+              max="64"
+              value="16"
+            />
+          </div>
+          <button class="apply">Apply</button>
+          <button class="reset">Reset</button>
+        </div>
       </div>
       <div class="rightSide">
         <div class="grid">
@@ -38,8 +53,6 @@
           <div class="pixel"></div>
           <div class="pixel"></div>
           <div class="pixel"></div>
-          
-
         </div>
       </div>
     </div>
