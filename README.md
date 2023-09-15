@@ -23,3 +23,5 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Umarocks/Etch-a-Sketch.git
+   Thank you for visiting 
+   
