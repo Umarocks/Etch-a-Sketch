@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+}
+
+.leftSide{
+    width: 30%;
+    height: auto;
+    border: 2px red solid;
+}
+
+.rightSide{
+    border: green 2px solid;
+    width: 100%;
+    height: auto;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(16,1fr);
+    grid-template-rows: repeat(16,1fr);
+    padding: 3rem;
+}
+
+.pixel{
+    display: block;  
+    height: 1rem;
+    box-sizing: border-box;
+    padding-top: 100%;
+    border: 1px solid rgb(212, 34, 34);
+}
