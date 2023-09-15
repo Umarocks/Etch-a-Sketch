@@ -18,6 +18,7 @@
     grid-template-columns: repeat(16,1fr);
     grid-template-rows: repeat(16,1fr);
     padding: 3rem;
+    
 }
 
 .pixel{
@@ -26,4 +27,5 @@
     box-sizing: border-box;
     padding-top: 100%;
     border: 1px solid rgb(212, 34, 34);
+    border-radius: 5px;
 }
