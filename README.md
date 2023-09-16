@@ -10,7 +10,7 @@ You can try the [live demo here](link-to-demo).
 
 ## Features
 
-- 16x16 grid for drawing.
+- dynaminc grid size ranging from 2x2 to 30x30 for drawing.
 - Clear button to reset the drawing.
 - Responsive design for different screen sizes.
 - Easy-to-use interface.
@@ -23,5 +23,5 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Umarocks/Etch-a-Sketch.git
-   Thank you for visiting 
+Thank you for visiting 
    
