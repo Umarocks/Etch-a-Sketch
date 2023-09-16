@@ -6,7 +6,7 @@ This project is a simple Etch A Sketch-like webpage that allows users to draw on
 
 ## Demo
 
-You can try the [live demo here](link-to-demo).
+You can try the [live demo here](https://umarocks.github.io/Etch-a-Sketch/).
 
 ## Features
 
